@@ -64,7 +64,7 @@
 <h2>⭐ Badges</h2>
 
  <div align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/Knight_VIII.png" alt="TryHackMe"><br>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/KnightVIII.png" alt="TryHackMe"><br>
    <!-- <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> -->
 </div>
 
