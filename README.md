@@ -1,14 +1,14 @@
 <h1 align="center">
-  Hey, It's Maruf here!
+  Hey, It's Tareq here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <h3 align="center">A cybersecurity enthusiast and tech freak.</h3>
 
-<p align="center">Member at <a href="https://knightsquad.org">Knight Squad</a> </p> 
+<p align="center">Senior Member at <a href="https://knightsquad.org">Knight Squad</a> </p> 
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq-Ahamed&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq-Ahamed&theme=gotham&langs_count=6&layout=compact" /></a>
  </p>
 
 
@@ -45,18 +45,18 @@
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" alt="marufmurtuza" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Tareq-Ahamed&theme=gotham" alt="Tareq-Ahamed" />
 </p>
 
 <h2>📊 Stats</h2>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=marufmurtuza&theme=gotham"/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tareq-Ahamed&theme=gotham"/>
 </p>
 
 
 <p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=radical"><img alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /></a>
+<a  href="https://github-readme-stats.vercel.app/api?username=Tareq-Ahamed&count_private=true&show_icons=true&theme=radical"><img alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Tareq-Ahamed&count_private=true&show_icons=true&theme=gotham" /></a>
   
 </p>
 
@@ -64,8 +64,7 @@
 <h2>⭐ Badges</h2>
 
  <div align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/marufmurtuza.png" alt="TryHackMe"><br>
-   <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/TareqAhamed.png" alt="TryHackMe"><br>
+   <!-- <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> -->
 </div>
 
- 
