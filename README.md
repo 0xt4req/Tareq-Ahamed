@@ -7,9 +7,9 @@
 
 <p align="center">Senior Member at <a href="https://knightsquad.org">Knight Squad</a> </p> 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq-Ahamed&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq-Ahamed&theme=gotham&langs_count=6&layout=compact" /></a>
- </p>
+ </p> -->
 
 
 <h2>👩‍💻 Skills</h2>
